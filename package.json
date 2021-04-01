@@ -1,0 +1,25 @@
+{
+  "name": "time-travel",
+  "version": "0.0.1",
+  "description": "This is a NPM package to calculate time from and to in y:m:d:h:m:s ways.",
+  "main": "index.js",
+  "scripts": {
+    "run" : "node index.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranjithbhas/time-travel.git"
+  },
+  "keywords": [
+    "time",
+    "travel",
+    "ranjith"
+  ],
+  "author": "Ranjith Bhaskaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranjithbhas/time-travel/issues"
+  },
+  "homepage": "https://github.com/ranjithbhas/time-travel#readme"
+}
